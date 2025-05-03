@@ -7,5 +7,5 @@ Languages
 </p>
 
 <footer>
-  <p><i>✉️ ribeiro.opedrohenrique@gmail.com</i></p>
+  <p>✉️<i>ribeiro.opedrohenrique@gmail.com</i></p>
 </footer>
